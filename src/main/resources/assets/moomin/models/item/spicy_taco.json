@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "moomin:items/stsmall507x507-pad600x600f8f8f8"
+  }
+}

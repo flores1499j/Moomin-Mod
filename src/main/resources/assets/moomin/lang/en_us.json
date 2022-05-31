@@ -1,1 +1,6 @@
-{}
+{
+  "item.moomin.moomin": "Moomin",
+  "item.moomin.ballof_vomet": "Ballof Vomet",
+  "item.moomin.spicy_taco": "Spicy Taco",
+  "itemGroup.tabmoomin_mod": "Moomin Mod"
+}
